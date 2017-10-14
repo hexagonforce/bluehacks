@@ -91,6 +91,11 @@ header {
     margin: 0 !important;
   }
 
+#coming-soon {
+  background: #000;
+  color: #FFF;
+}
+
 #about {
   background: #01A5D2;
   color: #FFF;

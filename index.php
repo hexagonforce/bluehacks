@@ -75,7 +75,7 @@
     </nav>
 
     <!-- A blank section -->
-    <section class="success" id="about">
+    <section class="success" id="coming-soon">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
