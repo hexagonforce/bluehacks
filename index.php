@@ -74,6 +74,19 @@
         <!-- /.container-fluid -->
     </nav>
 
+    <!-- A blank section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="about-text text-right">
+                        <p> Coming Soon! </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Header -->
     <header>
         <div class="container">
