@@ -1,0 +1,202 @@
+@font-face {
+    font-family: Bungee-Hairline;
+    src: url(../fonts/Bungee-Hairline_0.otf);
+}
+
+@font-face {
+    font-family: Bungee-Regular;
+    src: url(../fonts/Bungee-Regular_0.otf);
+}
+
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url(../fonts/OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+
+body{
+  background: #000;
+}
+
+#mainNav {
+  background-color: #000;
+  font-family: Bungee-Hairline;
+  border: 0;
+  margin-bottom: 0px !important;
+  height: 90px;
+
+}
+
+    .navbar-brand {
+      height: 80px;
+    }
+
+      .navbar-brand > img {
+        height: 100%;
+        width: auto;
+        cursor: pointer;
+      }
+
+  .navbar-right {
+    margin-right: 25px;
+  }
+
+  .nav > li {
+    cursor: pointer !important;
+  }
+
+  .nav > li > a {
+    padding: 25px 15px 25px 15px;
+    font-size: 25px;
+    color: #FFF !important;
+
+  }
+
+  .navbar-collapse {
+    background: #000;
+  }
+
+  .navbar-toggle {
+    margin-top: 20px;
+  }
+
+h1 {
+  font-size: 60px;
+  font-family: Bungee-Regular;
+}
+
+h2 {
+  font-size: 55px;
+}
+.section {
+  height: 900px;
+  width: 100%;
+}
+
+header {
+  background: #000;
+}
+
+  header .container {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 100px;
+  }
+
+  header img {
+    margin: 0 !important;
+  }
+
+#about {
+  background: #01A5D2;
+  color: #FFF;
+}
+  .about-text {
+    font-family: OpenSans-Regular;
+  }
+
+  .event-link {
+    text-decoration: underline;
+    color: #FFF;
+    cursor: pointer;
+  }
+
+  .event-link:hover {
+    color: #FFF;
+    cursor: pointer;
+  }
+
+
+#map {
+  background: #1C1C1C;
+}
+  .map-title {
+    margin-top: 150px;
+  }
+    .map-title h1 {
+      color: #2bd4f7;
+    }
+
+    .map-title h2 {
+      font-family: Bungee-Hairline;
+    }
+
+  
+
+#gallery {
+  background: #D8DEDF;
+}
+  #gallery h1 {
+    color: #01a5d2;
+    margin-bottom: 20px;
+  }
+
+  .portfolio-item {
+    margin-bottom: 25px;
+  }
+  #gallery .row-1 {
+    font-family: Bungee-Regular;
+    color: #01a5d2;
+    text-align: center;
+  }
+
+  #gallery .photo-gallery {
+    height: 500px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+  }
+
+#contact {
+  background: #000;
+  font-family: OpenSans-Regular;
+}
+  
+  #contact .contact-title {
+    margin-top: 100px;
+  }
+
+  #contact h1 {
+    color: #2bd4f7;
+  }
+
+  #contact h3 {
+    font-family: Bungee-Hairline;
+    font-size: 30px;
+    color: #FFF;
+  }
+
+  #contact input[type="text"], #contact input[type="email"] {
+    width: 100%;
+    height: 35px;
+  }
+
+  #contact textarea {
+    width: 100%;
+    height: 300px;
+  }
+
+  #contact button {
+    float: right;
+    width: 120px;
+    height: 42px;
+    border-radius: 10px;
+    background: #FFF;
+    font-family: OpenSans-Bold;
+  }
+
+footer .footer-above {
+  background: #d8dedf !important;
+  color: #000;
+  font-family: OpenSans-Regular;
+
+}
+
+footer .copyright {
+  margin-top: 20px;
+}
