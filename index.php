@@ -103,7 +103,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="about-text text-right">
-                        <p> Blue Hacks is a two-day hackaton that invites university students to engage in a collaborative application development in a competition atmosphere. Participants, in teams of 3-4, will have 24 hours to plan and develop their applications to be piched to a panel of judges with diverse backgrounds and discplines. It will be held at 5th Floor of the Rizal Library, Ateneo de Manila University from Febuary 18, 2017 to Febuary 19, 2017 </p>
+                        <p> Blue Hacks is a two-day hackaton that invites university students to engage in a collaborative application development in a competitive atmosphere. Participants, in teams of 3-4, will have 24 hours to plan and develop their applications to be pitched to a panel of judges with diverse backgrounds and discplines. It will be held at 5th Floor of the Rizal Library, Ateneo de Manila University from February 18, 2017 to February 19, 2017. </p>
                         <p> Learn more about the event <a class="event-link" href ="http://tinyurl.com/BlueHacksPrimer2017"> here </a> 
                         <p> Register<a  class="event-link" href = "http://bit.ly/BlueHacks2017Signups"> here </a></p>
                     </div>
