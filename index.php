@@ -74,14 +74,13 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <!-- A blank section -->
+    <!-- The Coming Soon Section-->
     <section class="success" id="coming-soon">
-        <div class="container">
+        <div class="container" style="margin: 10% auto">
             <div class="row">
-                <div class="col-lg-6">
-                    <div class="about-text text-right">
-                        <p> Coming Soon! </p>
-                    </div>
+                <div class="col-lg-12" >
+                    <img class="img-responsive img-centered" src="img/2018headerwhite.png" alt="">
+                    <p class="coming-soon-text text-center"><br>Coming Soon</p>
                 </div>
             </div>
         </div>

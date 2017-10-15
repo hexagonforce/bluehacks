@@ -27,7 +27,7 @@ body{
   font-family: Bungee-Hairline;
   border: 0;
   margin-bottom: 0px !important;
-  height: 90px;
+  height: 120px;
 
 }
 
@@ -92,9 +92,16 @@ header {
   }
 
 #coming-soon {
-  background: #000;
+  margin-top: 5em;
+  height: 100vh;
   color: #FFF;
+  background: #000f7c;
 }
+  .coming-soon-text{
+    font-family: OpenSans-Regular;
+    color: #FFF;
+    font-size: 3em;
+  }
 
 #about {
   background: #01A5D2;
