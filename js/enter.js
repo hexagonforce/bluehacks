@@ -1,3 +1,5 @@
+// Source: https://stackoverflow.com/questions/21666899/fade-an-image-using-javascript-not-jquery
+
 function fadeIn(el, time) {
   el.style.opacity = 0;
   el.style.display = "block";

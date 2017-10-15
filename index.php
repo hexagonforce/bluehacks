@@ -75,7 +75,7 @@
 
     <!-- The Coming Soon Section-->
     <section class="success" id="coming-soon">
-        <div class="container" style="margin: 10% auto">
+        <div class="container" style="padding: 10%">
             <div class="row">
                 <div class="col-lg-12" >
                     <img id="coming-logo" class="img-responsive img-centered" style="display:none;" src="img/2018headerwhite.png" alt="">
@@ -92,6 +92,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <img class="img-responsive" src="img/header.png" alt="">
+                    <a href="https://www.facebook.com/BlueHacks17/"><button type="button" class="btn btn-primary">Click here to<br>see what happened</button></a>
                 </div>
             </div>
         </div>
@@ -235,14 +236,6 @@
                         <div class="col-md-6 col-xs-6">
                             <img class="img-responsive" src="img/saperium-logo.png">
                         </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="copyright"> 
-                            &copy; 2016
-                        </div>
-                        
                     </div>
                 </div>
             </div>

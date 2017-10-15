@@ -84,11 +84,18 @@ header {
   header .container {
     padding-top: 0 !important;
     padding-bottom: 0 !important;
-    margin-top: 100px;
+    margin:0 auto 50px auto;
   }
 
   header img {
     margin: 0 !important;
+  }
+
+  header .btn{
+  font-size: 1.6em;
+  margin: 0 auto; 
+  width: 250px; 
+  height: 100px;
   }
 
 #coming-soon {
@@ -102,6 +109,7 @@ header {
     color: #FFF;
     font-size: 2em;
   }
+
 
 #about {
   background: #01A5D2;
