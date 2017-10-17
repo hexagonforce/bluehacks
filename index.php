@@ -8,8 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-    <title>BLUE HACKS: CODE. CREATE. COMPETE.</title>
+    <title>Blue Hacks 2017: Code. Create. Compete.</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -79,8 +80,7 @@
             <div class="row">
                 <div class="col-lg-12" >
                     <img id="coming-logo" class="img-responsive img-centered" style="display:none;" src="img/2018headerwhite.png" alt="">
-                    <script src="js/enter.js"></script>
-                    <p class="coming-soon-text text-center"><br>Coming Soon</p>
+                    <p class="coming-soon-text text-center" id="coming-soon-text"><br>>Coming_Soon</p>
                 </div>
             </div>
         </div>
@@ -92,7 +92,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <img class="img-responsive" src="img/header.png" alt="">
-                    <a href="https://www.facebook.com/BlueHacks17/"><button type="button" class="btn btn-primary">Click here to<br>see what happened</button></a>
+                    <a href="https://www.facebook.com/BlueHacks17/" target="_blank"><button type="button" class="btn btn-primary">Click here to see what happened last year</button></a>
                 </div>
             </div>
         </div>
@@ -103,10 +103,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="about-text text-right">
-                        <p> Blue Hacks is a two-day hackaton that invites university students to engage in a collaborative application development in a competitive atmosphere. Participants, in teams of 3-4, will have 24 hours to plan and develop their applications to be pitched to a panel of judges with diverse backgrounds and discplines. It will be held at 5th Floor of the Rizal Library, Ateneo de Manila University from February 18, 2017 to February 19, 2017. </p>
+                    <div class="about-text text-left">
+                        <p> Blue Hacks is a two-day hackathon that invites university students to engage in a collaborative application development in a competitive atmosphere. Participants, in teams of 3-4, will have 24 hours to plan and develop their applications to be pitched to a panel of judges with diverse backgrounds and disciplines. It will be held at 5th Floor of the Rizal Library, Ateneo de Manila University from February 18, 2017 to February 19, 2017. </p>
                         <p> Learn more about the event <a class="event-link" href ="http://tinyurl.com/BlueHacksPrimer2017"> here </a> 
-                        <p> Register<a  class="event-link" href = "http://bit.ly/BlueHacks2017Signups"> here </a></p>
+                        <p> Register <a  class="event-link" href = "http://bit.ly/BlueHacks2017Signups"> here </a></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-lg-offset-1">
@@ -126,9 +126,9 @@
                         <h2> ATENEO DE MANILA UNIVERSITY <h2>
                     </div>
                 </div>
-                <div class="col-lg-6 ">
+                <div class="col-lg-6">
                     <div class="main-map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1930.1428151758153!2d121.07538731400105!3d14.639720865059212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b77f05e5c2e9%3A0x40caff6e1d215f86!2sRizal+Library!5e0!3m2!1sen!2sph!4v1479774916653" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1930.1428151758153!2d121.07538731400105!3d14.639720865059212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b77f05e5c2e9%3A0x40caff6e1d215f86!2sRizal+Library!5e0!3m2!1sen!2sph!4v1479774916653" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -381,6 +381,8 @@
     <!-- Theme JavaScript -->
     <script src="js/freelancer.js"></script>
 
-</body>
+    <!-- Our JavaScript -->
+    <script src="js/enter.js"></script>
 
+</body>
 </html>

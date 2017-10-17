@@ -18,3 +18,16 @@ function fadeIn(el, time) {
 }
 
 fadeIn(document.getElementById('coming-logo'), 2000);
+fadeIn(document.getElementById('coming-soon-text'), 2000);
+
+$(window).scroll(function(){
+if($(window).scrollTop() >= 10){
+   $('#mainNav').css('height', '90px');
+   $('#mainNav').css('background-color', 'rgba(0, 0, 0, 0.6)');
+}
+else {
+   $('#mainNav').css('background-color', 'black');
+   $('#mainNav').css('height', '120px');
+
+}
+});
