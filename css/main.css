@@ -141,7 +141,7 @@ header {
   margin-top: 2em;
   height: 100vh;
   color: #FFF;
-  background: #000f7c;
+  background: #001f3f;
 }
   .coming-soon-text{
     font-family: DroidSansMono-Regular;
@@ -156,6 +156,10 @@ header {
 }
   .about-text {
     font-family: OpenSans-Regular;
+  }
+
+  .about-header{
+    margin:0 0;
   }
 
   .event-link {
